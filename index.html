@@ -245,6 +245,15 @@
           /><br /><br />
           <input type="submit" value="Submit" />
         </form>
+        <!-- Script -->
+        <h3>Script</h3>
+        <p>
+          The <code>&lt;script&gt;</code> tag is used to include JavaScript code
+          in your HTML.
+        </p>
+
+        <!-- Example button -->
+        <button id="clickMeButton">Click Me</button>
 
         <!-- Tables -->
         <h3>Table</h3>
@@ -309,5 +318,13 @@
       </section>
     </main>
     <footer>This is an example of footer</footer>
+    <!-- used to add js -->
+    <script>
+      document
+        .getElementById("clickMeButton")
+        .addEventListener("click", function () {
+          alert("Button Clicked!");
+        });
+    </script>
   </body>
 </html>
