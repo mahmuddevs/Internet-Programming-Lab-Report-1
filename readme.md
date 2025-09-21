@@ -1,6 +1,6 @@
 # Lab Report 1 – HTML Tags
 
-Live Link:
+Live Link: https://mahmuddevs.github.io/Internet-Programming-Lab-Report-1/
 
 ## Project Overview
 
